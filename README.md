@@ -1,1 +1,1 @@
-# trackers-main
+# Komga tracker for Paperback
